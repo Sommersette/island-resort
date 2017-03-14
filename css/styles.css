@@ -1,0 +1,14 @@
+body {
+  background: url("../images/background.jpg") no-repeat fixed center;
+  text-align: center;
+  font-family: fantasy;
+}
+
+td {
+  width: 33%;
+
+}
+
+img {
+  width: 75%;
+}
