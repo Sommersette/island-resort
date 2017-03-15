@@ -1,6 +1,6 @@
 nav{
   overflow: hidden;
-  background-color: #f00; /*change color */
+  background-color: #a8d3c9; /*change color */
   position: fixed;
   top: 0;
   left: 0;
@@ -9,18 +9,26 @@ nav{
 }
 
 nav a{
-  font-family: fantasy;
+  font-family: fantasy, ubuntu;
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #ffffff;
   text-align: center;
-  padding: 14px 16px;
+  padding: 11px 16px;
   text-decoration: none;
 }
 
 a:hover{
 background-color: skyblue;
+color: e4e073;
 }
+
+a:active{
+  color: red;
+
+}
+
+
 
 body {
   padding-top: 41px;
